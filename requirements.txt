@@ -1,0 +1,7 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
+streamlit
+pymysql
+langchain-community
+mcp-use
